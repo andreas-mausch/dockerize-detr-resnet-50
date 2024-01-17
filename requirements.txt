@@ -1,0 +1,7 @@
+click==8.1.7
+matplotlib==3.8.2
+pathlib==1.0.1
+pillow==10.2.0
+pyexiv2==2.8.3
+torch==2.1.2
+transformers==4.36.2
