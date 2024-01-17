@@ -15,3 +15,7 @@ docker run -it --rm --network none -v $PWD/images:/home/python/images:ro detr-re
 ```
 
 Note: I use docker's [none network driver](https://docs.docker.com/network/drivers/none/) to ensure everythings runs locally and no private data is exposed to the internet.
+
+# Example
+
+![Example Image](./havanna-object-detection.jpg)
